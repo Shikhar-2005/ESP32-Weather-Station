@@ -6,8 +6,8 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
-const char* ssid = "Shikhar";
-const char* password = "12345678";
+const char* ssid = "Wi-Fi Name";
+const char* password = "Wi-Fi password";
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
