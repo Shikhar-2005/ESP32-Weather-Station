@@ -48,3 +48,7 @@ The system efficiently manages an I2C bus sharing the `SDA` and `SCL` lines betw
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/yourusername/esp32-weather-station.git](https://github.com/yourusername/esp32-weather-station.git)
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
